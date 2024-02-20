@@ -1,0 +1,23 @@
+Align pdb1.pdb 132 with pdb2.pdb 154
+Twists 2 ini-len 80 ini-rmsd 4.12 opt-equ 93 opt-rmsd 3.21 chain-rmsd 5.71 Score 142.95 align-len 151 gaps 58 (38.41%)
+P-value 1.43e-02 Afp-num 5496 Identity 6.62% Similarity 15.23%
+Block  0 afp  1 score 22.33 rmsd  1.06 gap 0 (0.00%)
+Block  1 afp  7 score 108.11 rmsd  3.73 gap 63 (0.53%)
+Block  2 afp  2 score 46.77 rmsd  0.74 gap 0 (0.00%)
+
+                  .    :    .    :    .    :    .    :    .    :    .    :    .    :
+Chain 1:   15 QAWEGDDIKTLGNVIFMSQVVMQHGACEEKEERYFLLFSS----VLIMLSASPRM----SGFMYQGKIPI
+              11111111111111 22222          2222222222    22222222222    22222222222
+Chain 2:   61 LAQQRARRAQLPPA-FDVVHWNDEDIS---RGHLLRVLHRDTFVVLDYHRQARMLTEEGNKAERVVSVML
+
+                  .    :    .    :    .    :    .    :    .    :    .    :    .    :
+Chain 1:   77 AGMVVNRLDEIEGSDCMFEITGSTVERI---------------------------VVHCN--NNQDFQEW
+              2222222          22222222222                           22222  33333333
+Chain 2:  127 PAVYTARFLAVLEGRSEKVEVHSRYTNATFTPNPAAPYTFTLKCTSTRPDETFEWTVEFDVAESLMLQRF
+
+                  .    :
+Chain 1:  118 MEQLNRLTKSG
+              33333333333
+Chain 2:  209 LTQALHYNTGF
+
+Note: positions are from PDB; the numbers between alignments are block index
