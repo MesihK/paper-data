@@ -1,0 +1,11 @@
+{
+    "alnpdb:test":{
+        "pdb1":"https://raw.githubusercontent.com/MesihK/paper-data/master/prost3d/fp-example/d1v61a_%20.pdb",
+        "name1":"d1v61a_",
+        "pdb2":"https://raw.githubusercontent.com/MesihK/paper-data/master/prost3d/fp-example/d2giaa1.pdb",
+        "name2":"d2giaa1",
+        "alnpdb":"https://raw.githubusercontent.com/MesihK/paper-data/master/prost3d/fp-example/fatcat.pdb",
+        "lineLen":120,
+        "info":"A false positive example in the SCOP40 benchmark. d1v61a_ is scop b.55.1.1 protein and d2giaa1 is a d.18.1.4 scop protein. In the scop40 benchmark PROST3D finds d2giaa1 as homolog to b.55.1.1 familiy for 36 cases. In the CATH database these two protein belongs to same superfamily.1v61A00 has 100% sequence identity to d1v61a_ and classifed as 2.30.29.30 and 2giaA00 has 92.7% sequence identity to d2giaa1 and classifed as 2.30.31.40. When the two scop domain is aligned with FATCAT a significant alignment with  a P-value of 1.43e-02 is found."
+    }
+}
