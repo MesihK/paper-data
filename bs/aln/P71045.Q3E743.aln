@@ -1,0 +1,23 @@
+Align AF-P71045-F1-model_v4.pdb 140 with AF-Q3E743-F1-model_v4.pdb 109
+Twists 1 ini-len 88 ini-rmsd 4.39 opt-equ 93 opt-rmsd 2.49 chain-rmsd 7.16 Score 181.15 align-len 147 gaps 54 (36.73%)
+P-value 3.09e-05 Afp-num 7704 Identity 10.88% Similarity 20.41%
+Block  0 afp  2 score 37.59 rmsd  3.31 gap 0 (0.00%)
+Block  1 afp  9 score 173.57 rmsd  2.95 gap 18 (0.20%)
+
+                  .    :    .    :    .    :    .    :    .    :    .    :    .    :
+Chain 1:    1 MNRLLLAGWIFFILLSVCTESFSGMVVSQTVAFHFQPHPDLSQFLVMDFTELTVPEAFIQKIGHAFSFFV
+              11111111111 1111111                                     22222222222222
+Chain 2:    1 MVQLRRTITTN-KVFQAIT-------------------------------------STNDKVAHFVVFMW
+
+                  .    :    .    :    .    :    .    :    .    :    .    :    .    :
+Chain 1:   71 LTYLLWKQRG------------SIRSAAAGSF-AFAFFTEVLQLF---FSRNGCIRDVLIDAVGIGLFYG
+              2222222222            2222222222 222222222222   2222222222222222222222
+Chain 2:   33 ESWLFVKMFAEDIVTFRKLQANKYVLGVLICSLCASVTSEFAQSVVSRGQRVFDVKDIICNFWGSLLGVG
+
+                  .
+Chain 1:  125 LYVLAKR
+              2222222
+Chain 2:  103 IAFYQDR
+
+Note: positions are from PDB; the numbers between alignments are block index
+
